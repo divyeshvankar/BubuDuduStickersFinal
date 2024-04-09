@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "938239507915",
+    "project_id": "stickerapp-e755f",
+    "storage_bucket": "stickerapp-e755f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:938239507915:android:1e6823bfd0b774f214ca4e",
+        "android_client_info": {
+          "package_name": "com.example.sticker1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVcPkbZwr6D4UofOFju5409p9XLKpe22A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
